@@ -31,6 +31,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     _userDefault = [NSUserDefaults standardUserDefaults];
+    printf("version 1.0");
     
 }
 
